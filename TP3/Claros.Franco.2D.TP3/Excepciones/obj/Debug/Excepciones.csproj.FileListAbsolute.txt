@@ -1,0 +1,14 @@
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+E:\TP3\Claros.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+E:\TP3\Claros.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+E:\TP3\Claros.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+E:\TP3\Claros.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+E:\TP3\Claros.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+F:\TP3\Claros.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+F:\TP3\Claros.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\TP3\Claros.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+F:\TP3\Claros.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

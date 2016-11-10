@@ -1,0 +1,12 @@
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesAbstractas.dll
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.dll
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.dll
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesAbstractas.pdb
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\bin\Debug\EntidadesInstanciables.pdb
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\bin\Debug\Excepciones.pdb
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\TP3\Claros.Franco.2D.TP3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

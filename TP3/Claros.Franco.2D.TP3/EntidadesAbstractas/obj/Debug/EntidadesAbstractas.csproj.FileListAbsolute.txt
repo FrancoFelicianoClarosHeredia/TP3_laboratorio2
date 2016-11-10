@@ -1,0 +1,21 @@
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+c:\users\rob\documents\visual studio 2012\Projects\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+E:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+E:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+E:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+F:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+F:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.dll
+F:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.pdb
+F:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+F:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+F:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+F:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+E:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.dll
+E:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\EntidadesAbstractas.pdb
+E:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+E:\TP3\Claros.Franco.2D.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
